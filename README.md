@@ -54,11 +54,3 @@ Cette application JavaFX permet de surveiller le trafic réseau en temps réel e
 Les seuils de détection peuvent être ajustés dans la classe `NetworkMonitorService` :
 - `DOS_THRESHOLD` : Seuil pour la détection des attaques DoS
 - `PORT_SCAN_THRESHOLD` : Seuil pour la détection des scans de ports
-
-## Sécurité
-
-L'application nécessite des privilèges administrateur pour capturer le trafic réseau. Assurez-vous de l'exécuter avec les droits appropriés.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails. 
