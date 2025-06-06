@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane stylesheets="@/ma/enset/nids/main.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ma.enset.nids.controller.MainController">
+    
+    <top>
+        <VBox spacing="10" styleClass="header-section">
+            <padding>
+                <Insets bottom="10" left="15" right="15" top="10" />
+            </padding>
+            
+            <HBox alignment="CENTER" spacing="20">
+                <Region HBox.hgrow="ALWAYS" />
+                <ToolBar prefHeight="35.0" prefWidth="763.0">
+                    <items>
+                        <Label alignment="CENTER" text="Interface réseau : " />
+                        <ComboBox fx:id="interfaceSelector" prefHeight="25.0" prefWidth="361.0" />
+                  <Separator orientation="VERTICAL" prefHeight="25.0" prefWidth="0.0" />
+                        <Button fx:id="startButton" alignment="CENTER" onAction="#handleStartCapture" prefHeight="25.0" prefWidth="130.0" text="Démarrer" />
+                        <Separator orientation="VERTICAL" prefHeight="25.0" prefWidth="0.0" />
+                        <Button fx:id="stopButton" alignment="CENTER" disable="true" onAction="#handleStopCapture" prefHeight="25.0" prefWidth="130.0" text="Arrêter" />
+                    </items>
+                </ToolBar>
+            </HBox>
+            
+            <GridPane alignment="BOTTOM_LEFT" hgap="20" prefHeight="46.0" prefWidth="417.0" vgap="10">
+                <Label styleClass="stat-label" text="Connexions Actives:" GridPane.columnIndex="3" />
+                <Label fx:id="activeConnectionsLabel" styleClass="stat-value" text="0" GridPane.columnIndex="4" />
+                
+                <Label prefHeight="15.0" prefWidth="141.0" styleClass="stat-label" text="Paquets Capturés:" GridPane.columnIndex="5" />
+                <Label fx:id="totalPacketsLabel" prefHeight="18.0" prefWidth="29.0" styleClass="stat-value" text="0" GridPane.columnIndex="6" />
+                
+                <Label styleClass="stat-label" text="Intrusions Détectées:" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                <Label fx:id="intrusionsLabel" styleClass="stat-value" text="0" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+                
+                <Label styleClass="stat-label" text="Trafic Total:" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+                <Label fx:id="totalTrafficLabel" prefHeight="18.0" prefWidth="65.0" styleClass="stat-value" text="0 B" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+                <Label alignment="TOP_LEFT" prefHeight="23.0" prefWidth="212.0" styleClass="section-title" text="Statistiques Réseau" textFill="#210dff" GridPane.rowIndex="1" />
+            <columnConstraints>
+               <ColumnConstraints maxWidth="207.0" minWidth="191.0" prefWidth="200.0" />
+               <ColumnConstraints maxWidth="21.0" minWidth="5.0" prefWidth="12.0" />
+               <ColumnConstraints maxWidth="0.0" minWidth="0.0" prefWidth="0.0" />
+               <ColumnConstraints maxWidth="119.0" minWidth="119.0" prefWidth="119.0" />
+               <ColumnConstraints maxWidth="79.0" minWidth="0.0" prefWidth="0.0" />
+               <ColumnConstraints maxWidth="117.0" minWidth="31.0" prefWidth="102.0" />
+               <ColumnConstraints maxWidth="41.0" minWidth="0.0" prefWidth="28.0" />
+               <ColumnConstraints maxWidth="0.0" minWidth="0.0" prefWidth="0.0" />
+               <ColumnConstraints />
+            </columnConstraints>
+            <rowConstraints>
+               <RowConstraints />
+               <RowConstraints />
+               <RowConstraints />
+            </rowConstraints>
+            <cursor>
+               <Cursor fx:constant="MOVE" />
+            </cursor>
+            </GridPane>
+        </VBox>
+    </top>
+    
+    <center>
+        <SplitPane dividerPositions="0.33397312859884837" orientation="VERTICAL">
+            <VBox alignment="CENTER" spacing="10">
+                <HBox alignment="CENTER_LEFT" spacing="10">
+                    <padding>
+                        <Insets bottom="5" left="10" right="10" top="5" />
+                    </padding>
+                    <Label styleClass="filter-label" text="Filtres:" />
+                    <ComboBox fx:id="protocolFilter" promptText="Protocole" />
+                    <TextField fx:id="ipFilter" promptText="Adresse IP" />
+                    <TextField fx:id="portFilter" prefHeight="25.0" prefWidth="96.0" promptText="Port" />
+                    <Button onAction="#handleApplyFilters" prefHeight="25.0" prefWidth="131.0" text="Appliquer" />
+               <Separator orientation="VERTICAL" prefHeight="25.0" prefWidth="0.0" />
+                    <Button onAction="#handleResetFilters" prefHeight="25.0" prefWidth="130.0" text="Réinitialiser" />
+                </HBox>
+               
+               <TableView fx:id="packetsTable" prefHeight="549.0" prefWidth="742.0" VBox.vgrow="ALWAYS">
+                   <contextMenu>
+                       <ContextMenu>
+                           <items>
+                               <MenuItem onAction="#handleCopySourceIP" text="Copier IP Source" />
+                               <MenuItem onAction="#handleCopyDestIP" text="Copier IP Destination" />
+                               <MenuItem onAction="#handleShowPacketDetails" text="Détails du Paquet" />
+                               <MenuItem onAction="#handleExportSelected" text="Exporter la Sélection" />
+                           </items>
+                       </ContextMenu>
+                   </contextMenu>
+               </TableView>
+                
+                <LineChart fx:id="trafficChart" animated="false" createSymbols="false" prefHeight="451.0" prefWidth="715.0" styleClass="traffic-chart">
+                    <xAxis>
+                        <NumberAxis animated="false" label="Temps (s)" />
+                    </xAxis>
+                    <yAxis>
+                        <NumberAxis animated="false" label="Paquets/s" />
+                    </yAxis>
+                </LineChart>
+            </VBox>
+            
+            <VBox prefHeight="1000.0" prefWidth="715.0">
+                <HBox alignment="CENTER_LEFT" prefHeight="4.0" prefWidth="742.0" spacing="10">
+                    <padding>
+                        <Insets bottom="5" left="10" right="10" top="5" />
+                    </padding>
+                    <Label styleClass="section-title" text="Alertes et Notifications" />
+                    <Region HBox.hgrow="ALWAYS" />
+                    <Button onAction="#handleExportAlerts" prefHeight="25.0" prefWidth="143.0" text="Exporter les Alertes" />
+               <Separator orientation="VERTICAL" prefHeight="25.0" prefWidth="0.0" />
+                    <Button onAction="#handleClearAlerts" prefHeight="25.0" prefWidth="143.0" text="Effacer" />
+                </HBox>
+                <TextArea fx:id="alertsTextArea" editable="false" prefHeight="150" promptText="Les alertes d'intrusion apparaîtront ici..." styleClass="alerts-area" />
+            </VBox>
+        </SplitPane>
+    </center>
+    
+    <bottom>
+        <HBox alignment="CENTER_LEFT" spacing="10" styleClass="status-bar">
+            <padding>
+                <Insets bottom="5" left="10" right="10" top="5" />
+            </padding>
+            <Label fx:id="statusLabel" text="Prêt" />
+            <Region HBox.hgrow="ALWAYS" />
+            <Label fx:id="captureTimeLabel" text="Temps de capture: 00:00:00" />
+        </HBox>
+    </bottom>
+    
+</BorderPane>

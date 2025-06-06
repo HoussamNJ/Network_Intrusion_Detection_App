@@ -1,0 +1,13 @@
+=== Rapport d'Alertes de Sécurité ===
+Date d'export: 2025-06-06 13:11:21
+Nombre total d'intrusions détectées: 8
+
+=== Détail des Alertes ===
+[2025-06-06 13:06:47.02] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-06-06 13:06:47.03] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-06-06 13:06:52.27] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+
+=== Statistiques ===
+Paquets totaux analysés: 4987
+Trafic total: 1,63 MB
+IPs blacklistées: 192.168.192.254, 127.0.0.1

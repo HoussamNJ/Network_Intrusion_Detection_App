@@ -1,0 +1,12 @@
+=== Rapport d'Alertes de Sécurité ===
+Date d'export: 2025-06-06 08:43:09
+Nombre total d'intrusions détectées: 4
+
+=== Détail des Alertes ===
+[2025-06-06 08:39:10.45] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 08:41:24.39] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+
+=== Statistiques ===
+Paquets totaux analysés: 9638
+Trafic total: 4,45 MB
+IPs blacklistées: 192.168.192.67, 157.240.5.60

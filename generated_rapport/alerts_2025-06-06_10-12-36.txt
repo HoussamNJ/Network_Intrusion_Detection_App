@@ -1,0 +1,17 @@
+=== Rapport d'Alertes de Sécurité ===
+Date d'export: 2025-06-06 10:12:36
+Nombre total d'intrusions détectées: 17
+
+=== Détail des Alertes ===
+[2025-06-06 10:08:08.54] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 10:08:37.49] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 10:09:01.92] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 10:09:02.81] DoS Attack (High packet rate) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 10:09:43.75] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 10:11:06.51] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+[2025-06-06 10:12:25.54] Port Scanning (Multiple ports) détecté - Source: 192.168.192.1, Destination: 192.168.192.67
+
+=== Statistiques ===
+Paquets totaux analysés: 6165
+Trafic total: 1,73 MB
+IPs blacklistées: 197.230.210.35, 95.100.100.128, 192.168.192.67, 13.107.246.77, 192.168.192.254, 192.168.192.1

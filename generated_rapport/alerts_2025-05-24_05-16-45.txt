@@ -1,0 +1,909 @@
+=== Rapport d'Alertes de Sécurité ===
+Date d'export: 2025-05-24 05:16:45
+Nombre total d'intrusions détectées: 908
+
+=== Détail des Alertes ===
+[2025-05-24 05:15:17.69] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:17.69] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:18.69] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:18.70] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:18.70] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:18.70] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:19.71] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:19.71] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:19.71] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:20.72] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:20.72] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:20.72] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:20.72] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:15:21.73] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.25] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.25] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.26] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.27] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.28] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.28] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.28] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.28] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.29] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.29] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.29] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.29] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.29] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.30] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.30] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.53] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.53] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.54] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.54] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.54] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.54] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.54] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.54] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.55] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.55] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.55] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.56] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.57] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.57] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.75] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.76] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.77] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.78] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.78] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.78] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.78] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.78] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.96] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.96] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.96] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.96] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.97] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.98] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:15.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.17] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.17] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.17] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.17] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.17] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.17] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.18] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.19] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.19] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.19] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.19] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.19] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.20] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.20] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.20] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.20] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.20] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.37] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.37] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.37] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.37] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.37] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.38] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.39] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.56] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.57] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.74] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.76] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.76] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.93] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.93] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.93] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.93] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:16.93] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.12] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.13] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.30] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.30] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.30] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.32] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.32] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.32] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.32] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.32] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.46] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.46] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.46] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.62] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.62] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.64] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.64] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.64] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.64] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.82] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.82] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.82] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.83] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.84] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.98] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.98] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.98] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.98] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:17.99] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.00] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.00] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.14] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.14] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.15] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.16] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.30] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.30] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.31] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.46] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.46] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.62] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.63] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.78] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.79] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.94] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.95] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.95] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.95] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.95] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.95] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:18.95] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.10] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.11] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.28] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.28] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.28] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.28] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.28] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.43] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.58] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.58] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.58] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.58] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.59] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.91] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:19.92] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.08] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] DoS Attack (High packet rate) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.24] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.25] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.40] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.40] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.40] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.40] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.40] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.40] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.41] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.41] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.41] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.41] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.49] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.64] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:20.96] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.53] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.60] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:21.92] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.23] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.55] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:22.87] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.20] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.51] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.59] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:23.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.61] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.80] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:24.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.12] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.44] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.63] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:25.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.39] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.65] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.71] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:26.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.03] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.36] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.67] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:27.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.00] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.64] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.70] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:28.95] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.73] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:29.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.24] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.55] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.75] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:30.88] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.19] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.51] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.77] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.84] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:31.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.15] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.47] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:32.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.11] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.44] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.81] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:33.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.07] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.39] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.72] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.83] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:34.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.03] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.36] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.67] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.85] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:35.99] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.31] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.63] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.88] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:36.96] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.27] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.59] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.90] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:37.91] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.23] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.56] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.88] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:38.94] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.20] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.52] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.83] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:39.95] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.16] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.48] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.79] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:40.98] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.11] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.43] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.67] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.75] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:41.99] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.06] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.08] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.27] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.40] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.46] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.71] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:42.87] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.02] SYN Flood Attack détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.04] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.07] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.26] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.36] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.47] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.66] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.67] Suspicious Port Activity détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+[2025-05-24 05:16:43.86] Port Scanning (Multiple ports) détecté - Source: 127.0.0.1, Destination: 127.0.0.1
+
+=== Statistiques ===
+Paquets totaux analysés: 9880
+Trafic total: 427,07 KB
+IPs blacklistées: 127.0.0.1

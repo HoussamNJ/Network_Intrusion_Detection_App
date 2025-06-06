@@ -1,0 +1,10 @@
+=== Rapport d'Alertes de Sécurité ===
+Date d'export: 2025-06-05 14:47:02
+Nombre total d'intrusions détectées: 0
+
+=== Détail des Alertes ===
+
+=== Statistiques ===
+Paquets totaux analysés: 22
+Trafic total: 2,24 KB
+IPs blacklistées: 

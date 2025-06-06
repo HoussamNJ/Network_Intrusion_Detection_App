@@ -1,0 +1,32 @@
+=== Rapport d'Alertes de Sécurité ===
+Date d'export: 2025-05-24 04:50:32
+Nombre total d'intrusions détectées: 22
+
+=== Détail des Alertes ===
+[2025-05-24 04:50:20.79] Port Scanning détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:20.81] Suspicious Port Activity détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:21.10] Port Scanning détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:21.18] Suspicious Port Activity détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:22.22] Port Scanning détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:22.22] Suspicious Port Activity détecté - Source: 192.168.192.47, Destination: 104.18.19.125
+[2025-05-24 04:50:24.24] Suspicious Port Activity détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:24.24] Port Scanning détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:27.25] Port Scanning détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:27.25] Suspicious Port Activity détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:27.62] Port Scanning détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:27.62] Suspicious Port Activity détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:27.62] Port Scanning détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:27.62] Suspicious Port Activity détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:27.62] Port Scanning détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:28.30] Suspicious Port Activity détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:28.30] Port Scanning détecté - Source: 192.168.192.254, Destination: 239.255.255.250
+[2025-05-24 04:50:28.32] Suspicious Port Activity détecté - Source: 192.168.192.47, Destination: 34.226.129.100
+[2025-05-24 04:50:28.32] Port Scanning détecté - Source: 192.168.192.47, Destination: 192.168.192.1
+[2025-05-24 04:50:28.32] Port Scanning détecté - Source: 192.168.192.1, Destination: 192.168.192.47
+[2025-05-24 04:50:30.33] Suspicious Port Activity détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+[2025-05-24 04:50:30.33] Port Scanning détecté - Source: 192.168.192.99, Destination: 239.255.255.250
+
+=== Statistiques ===
+Paquets totaux analysés: 335
+Trafic total: 92,20 KB
+IPs blacklistées: 
